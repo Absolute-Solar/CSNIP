@@ -5,6 +5,7 @@ Questions Follow our <a>Discussion</a> <br>
 
 # Purposal List
 Index of proposals
+<table>
 ID 	Title 	Status 	Voted With
 1 	Longfi and LoRaWAN 		
 2 	Sign miner 		
@@ -149,3 +150,4 @@ ID 	Title 	Status 	Voted With
 142 	Add Inversion Capital as an International Service Provider to the Helium Mobile Network 		
 143 	Decoupling Service Provider Pricing from Governance 		
 144 	Mobile Hotspot Rewards Escrow 		
+</table>
