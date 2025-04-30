@@ -96,13 +96,13 @@ Index of proposals
             <tr>
                 <td>15</td>
                 <td>Beaconing Rewards(example)</td>
-                <td>Rejected</td>
+                <td>In Discussion</td>
                 <td>CSN</td>
             </tr>
             <tr>
                 <td>16</td>
                 <td>Remove Score from Consensus Group Elections(example)</td>
-                <td>Rejected</td>
+                <td>Voting Open</td>
                 <td>CSN</td>
             </tr>
             <tr>
