@@ -137,7 +137,6 @@ Index of proposals
                 <td>Closed</td>
                 <td>Status:Closed</td>
                 <td>No longer considered, deprecated, or withdrawn.</td>
-                <td>Mobile</td>
             </tr>
             <tr>
                 <td>Rejected</td>
