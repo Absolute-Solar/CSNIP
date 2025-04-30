@@ -25,13 +25,13 @@ Index of proposals
                 <td>2</td>
                 <td>Sign miner(example)</td>
                 <td>Closed</td>
-                <td>CSN</td>
+                <td>IOT</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>Expensing Data Credits for LoRaWAN Traffic(example)</td>
                 <td>Approved</td>
-                <td>CSN</td>
+                <td>Mobile</td>
             </tr>
             <tr>
                 <td>5</td>
