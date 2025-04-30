@@ -102,7 +102,7 @@ Index of proposals
             <tr>
                 <td>16</td>
                 <td>Remove Score from Consensus Group Elections(example)</td>
-                <td>Voting Open</td>
+                <td>Open</td>
                 <td>CSN</td>
             </tr>
             <tr>
@@ -111,4 +111,48 @@ Index of proposals
                 <td>Rejected</td>
                 <td>CSN</td>
             </tr>
- </table>
+        </tbody></table>
+
+ # CSN Status Details
+ <table id="proposalsTable">
+        <thead>
+            <tr>
+                <th>Status</th>
+                <th>Title</th>
+                <th>Note</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>In discussion</td>
+                <td>Status:In discussion</td>
+                <td>Actively under consideration by comm. <a>discord link</a></td>
+            </tr>
+            <tr>
+                <td>Open</td>
+                <td>Status:Open</td>
+                <td>being voted on by comm. <a>https://3rdtest.webflow.io/csn-info</a></td>
+            </tr>
+            <tr>
+                <td>Closed</td>
+                <td>Status:Closed</td>
+                <td>No longer considered, deprecated, or withdrawn.</td>
+                <td>Mobile</td>
+            </tr>
+            <tr>
+                <td>Rejected</td>
+                <td>Status:Rejected</td>
+                <td>CSNIP doesn't meet required votes.</td>
+            </tr>
+            <tr>
+                <td>Approved</td>
+                <td>Status:Approved</td>
+                <td>Has been approved by concensus and is pending development, testing etc. </td>
+            </tr>
+            <tr>
+                <td>Deployed</td>
+                <td>Status:Deployed</td>
+                <td>Code is implemented for CSNIP and active on the network.</td>
+            </tr>
+        </tbody></table>
+            
