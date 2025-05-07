@@ -1,0 +1,1 @@
+standard-csnip-template.md
