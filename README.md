@@ -20,7 +20,7 @@ Index of proposals
                 <td>1</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Open-yellow"/></td>
-                <td>CSN</td>
+                <td><img src="https://img.shields.io/badge/CSN-red" /></td>
             </tr>
             <tr>
                 <td>2</td>
