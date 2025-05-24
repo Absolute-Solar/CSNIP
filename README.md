@@ -65,27 +65,27 @@ Index of proposals
             </tr>
             <tr>
                 <td>Open</td>
-                <td>Status:Open</td>
+                <td>![Status](https://img.shields.io/badge/Status-Open-brightgreen)</td>
                 <td>being voted on by comm. <a>https://3rdtest.webflow.io/csn-info</a></td>
             </tr>
             <tr>
                 <td>Closed</td>
-                <td>Status:Closed</td>
+                <td>![Status](https://img.shields.io/badge/Status-Closed-lightgrey)</td>
                 <td>No longer considered, deprecated, or withdrawn.</td>
             </tr>
             <tr>
                 <td>Rejected</td>
-                <td>Status:Rejected</td>
+                <td>![Status](https://img.shields.io/badge/Status-Rejected-red)</td>
                 <td>CSNIP doesn't meet required votes.</td>
             </tr>
             <tr>
                 <td>Approved</td>
-                <td>Status:Approved</td>
+                <td>![Status](https://img.shields.io/badge/Status-Approved-blue)</td>
                 <td>Has been approved by concensus and is pending development, testing etc. </td>
             </tr>
             <tr>
                 <td>Deployed</td>
-                <td>Status:Deployed</td>
+                <td>![Status](https://img.shields.io/badge/Status-Deployed-purple)</td>
                 <td>Code is implemented for CSNIP and active on the network.</td>
             </tr>
         </tbody></table>
