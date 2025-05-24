@@ -42,8 +42,14 @@ Index of proposals
             </tr>
             <tr>
                 <td>5</td>
-                <td>Ramp-up period for data transfer rewards(example)</td>
+                <td>(TBA)</td>
                 <td>Deployed</td>
+                <td>CSN</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>(TBA)</td>
+                <td>In Discussion</td>
                 <td>CSN</td>
             </tr>
         </tbody></table>
@@ -70,7 +76,7 @@ Index of proposals
             </tr>
             <tr>
                 <td>Closed</td>
-                <td>![Status](https://img.shields.io/badge/Status-Closed-lightgrey)</td>
+                <td><img src="https://img.shields.io/badge/Status-Closed-lightgrey"/></td>
                 <td>No longer considered, deprecated, or withdrawn.</td>
             </tr>
             <tr>
