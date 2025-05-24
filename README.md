@@ -49,7 +49,7 @@ Index of proposals
             <tr>
                 <td>6</td>
                 <td>(TBA)</td>
-                <td><img src="https://img.shields.io/badge/Status-Discussion-blue"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Discussion-purple"/></td>
                 <td>CSN</td>
             </tr>
         </tbody></table>
@@ -71,7 +71,7 @@ Index of proposals
             </tr>
             <tr>
                 <td>Open</td>
-                <td><img src="httpsimg.shields.io/badge/Status-Open-yellow"/></://td>
+                <td><img src="https://img.shields.io/badge/Status-Open-yellow"/></://td>
                 <td>being voted on by comm. <a>https://3rdtest.webflow.io/csn-info</a></td>
             </tr>
             <tr>
