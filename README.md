@@ -20,7 +20,7 @@ Index of proposals
                 <td>1</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Open-yellow"/></td>
-                <td><img src="https://img.shields.io/badge/CSN-red" /></td>
+                <td><img src="https://img.shields.io/badge/CSN-yellow" /></td>
             </tr>
             <tr>
                 <td>2</td>
@@ -38,19 +38,19 @@ Index of proposals
                 <td>4</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Rejected-red"/></td>
-                <td>CSN</td>
+                <td><img src="https://img.shields.io/badge/CSN-yellow" /></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Deployed-green"/></td>
-                <td>CSN</td>
+                <td><img src="https://img.shields.io/badge/CSN-yellow" /></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Discussion-purple"/></td>
-                <td>CSN</td>
+                <td><img src="https://img.shields.io/badge/CSN-yellow" /></td>
             </tr>
         </tbody></table>
 
