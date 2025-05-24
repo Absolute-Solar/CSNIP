@@ -26,13 +26,13 @@ Index of proposals
                 <td>2</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Closed-orange"/></td>
-                <td>IOT</td>
+                <td><img src="https://img.shields.io/badge/IOT-green" /></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>(TBA)</td>
                 <td><img src="https://img.shields.io/badge/Status-Approved-brightgreen"/></td>
-                <td>Mobile</td>
+                <td><img src="https://img.shields.io/badge/Mobile-Tan" /></td>
             </tr>
             <tr>
                 <td>4</td>
