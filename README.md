@@ -1,7 +1,8 @@
 # Purposals (CSNIP)
 CryptoSun improvement propsals <br>
-Learn more: <a>https://</a> <br>
-Questions Follow our <a>Discussion</a> <br>
+
+This is how CryptoSun feature proposals are made for implementation into code.
+Use this as a purposal section to improve on CryptoSun's Governance Programs and flow!
 
 # Purposal List
 Index of proposals
