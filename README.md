@@ -19,13 +19,13 @@ Index of proposals
             <tr>
                 <td>1</td>
                 <td>(TBA)</td>
-                <td><img src="https://img.shields.io/badge/Status-Open-brightgreen"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Open-yellow"/></td>
                 <td>CSN</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>(TBA)</td>
-                <td><img src="https://img.shields.io/badge/Status-Closed-brightgreen"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Closed-grey"/></td>
                 <td>IOT</td>
             </tr>
             <tr>
