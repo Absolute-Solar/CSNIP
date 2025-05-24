@@ -66,17 +66,17 @@ Index of proposals
         <tbody>
             <tr>
                 <td>In discussion</td>
-                <td>Status:In discussion</td>
-                <td><img src="https://img.shields.io/badge/Status-Discussion-brightgreen"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Discussion-blue"/></td>
+                <td>In discussion with the team not a finished purposal</td>
             </tr>
             <tr>
                 <td>Open</td>
-                <td><img src="https://img.shields.io/badge/Status-Open-brightgreen"/></td>
+                <td><img src="httpsimg.shields.io/badge/Status-Open-yellow"/></://td>
                 <td>being voted on by comm. <a>https://3rdtest.webflow.io/csn-info</a></td>
             </tr>
             <tr>
                 <td>Closed</td>
-                <td><img src="https://img.shields.io/badge/Status-Closed-lightgrey"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Closed-orange"/></td>
                 <td>No longer considered, deprecated, or withdrawn.</td>
             </tr>
             <tr>
@@ -86,7 +86,7 @@ Index of proposals
             </tr>
             <tr>
                 <td>Approved</td>
-                <td><img src="https://img.shields.io/badge/Status-Approved-blue"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Approved-brightgreen"/></td>
                 <td>Has been approved by concensus and is pending development, testing etc. </td>
             </tr>
             <tr>
