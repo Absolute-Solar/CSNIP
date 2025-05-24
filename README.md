@@ -19,37 +19,37 @@ Index of proposals
             <tr>
                 <td>1</td>
                 <td>(TBA)</td>
-                <td>Open</td>
+                <td><img src="https://img.shields.io/badge/Status-Open-brightgreen"/></td>
                 <td>CSN</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>(TBA)</td>
-                <td>Closed</td>
+                <td><img src="https://img.shields.io/badge/Status-Closed-brightgreen"/></td>
                 <td>IOT</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>(TBA)</td>
-                <td>Approved</td>
+                <td><img src="https://img.shields.io/badge/Status-Approved-brightgreen"/></td>
                 <td>Mobile</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>(TBA)</td>
-                <td>Rejected</td>
+                <td><img src="https://img.shields.io/badge/Status-Rejected-red"/></td>
                 <td>CSN</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>(TBA)</td>
-                <td>Deployed</td>
+                <td><img src="https://img.shields.io/badge/Status-Deployed-green"/></td>
                 <td>CSN</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>(TBA)</td>
-                <td>In Discussion</td>
+                <td><img src="https://img.shields.io/badge/Status-Discussion-blue"/></td>
                 <td>CSN</td>
             </tr>
         </tbody></table>
@@ -67,11 +67,11 @@ Index of proposals
             <tr>
                 <td>In discussion</td>
                 <td>Status:In discussion</td>
-                <td>Actively under consideration by comm. <a>discord link</a></td>
+                <td><img src="https://img.shields.io/badge/Status-Discussion-brightgreen"/></td>
             </tr>
             <tr>
                 <td>Open</td>
-                <td>![Status](https://img.shields.io/badge/Status-Open-brightgreen)</td>
+                <td><img src="https://img.shields.io/badge/Status-Open-brightgreen"/></td>
                 <td>being voted on by comm. <a>https://3rdtest.webflow.io/csn-info</a></td>
             </tr>
             <tr>
@@ -81,17 +81,17 @@ Index of proposals
             </tr>
             <tr>
                 <td>Rejected</td>
-                <td>![Status](https://img.shields.io/badge/Status-Rejected-red)</td>
+                <td><img src="https://img.shields.io/badge/Status-Rejected-red"/></td>
                 <td>CSNIP doesn't meet required votes.</td>
             </tr>
             <tr>
                 <td>Approved</td>
-                <td>![Status](https://img.shields.io/badge/Status-Approved-blue)</td>
+                <td><img src="https://img.shields.io/badge/Status-Approved-blue"/></td>
                 <td>Has been approved by concensus and is pending development, testing etc. </td>
             </tr>
             <tr>
                 <td>Deployed</td>
-                <td>![Status](https://img.shields.io/badge/Status-Deployed-purple)</td>
+                <td><img src="https://img.shields.io/badge/Status-Deployed-purple"/></td>
                 <td>Code is implemented for CSNIP and active on the network.</td>
             </tr>
         </tbody></table>
