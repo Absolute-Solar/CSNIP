@@ -25,7 +25,7 @@ Index of proposals
             <tr>
                 <td>2</td>
                 <td>(TBA)</td>
-                <td><img src="https://img.shields.io/badge/Status-Closed-grey"/></td>
+                <td><img src="https://img.shields.io/badge/Status-Closed-blue"/></td>
                 <td>IOT</td>
             </tr>
             <tr>
